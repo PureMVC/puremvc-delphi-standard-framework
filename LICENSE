@@ -1,24 +1,5 @@
-## [PureMVC](http://puremvc.github.com/) Delphi Standard Framework
-
-PureMVC is a lightweight framework for creating applications based upon the classic [Model-View-Controller](http://en.wikipedia.org/wiki/Model-view-controller) design meta-pattern. This is the specific implementation for the [Delphi](http://www.embarcadero.com/products/delphi) language. It does not support [modular programming](http://en.wikipedia.org/wiki/Modular_programming) since it uses [Singletons](http://en.wikipedia.org/wiki/Singleton_pattern) as Core actors rather than the [Multiton](http://en.wikipedia.org/wiki/Multiton) used in the [MultiCore](https://github.com/PureMVC/puremvc-swift-multicore-framework/wiki) Version.
-
-* [API Docs](http://puremvc.org/pages/docs/Delphi/standard/)
-* [Unit Tests](http://puremvc.github.io/images/Delphi/unittest/standard.png)
-* [Discussion](http://forums.puremvc.org/index.php?board=127)
-* [Standard Version Overview Presentation](http://puremvc.tv/#P100)
-
-## Demos
-* Employee Admin - Included in this project
-
-## Status
-Production - [Version 1.2.0](https://github.com/PureMVC/puremvc-delphi--standard-framework/blob/master/VERSION)
-
-## Platforms / Technologies
-* [Delphi](http://www.embarcadero.com/products/delphi)
-
-## License
-* PureMVC Standard Framework for Delphi - Copyright Â© 2015-2015 Jorge Cangas
-* PureMVC - Copyright Â© 2015-2015 [Futurescale, Inc](http://futurescale.com) 
+* PureMVC Standard Framework for Delphi (Ported) - Copyright © 2012-2015 Jorge Cangas
+* PureMVC - Copyright © 2006-2015 Futurescale, Inc.
 * All rights reserved.
 
 * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

@@ -11,7 +11,7 @@ PureMVC is a lightweight framework for creating applications based upon the clas
 * Employee Admin - Included in this project
 
 ## Status
-Production - [Version 1.2.0](https://github.com/PureMVC/puremvc-delphi-standard-framework/blob/master/VERSION)
+Experimental - [Version 1.2.0](https://github.com/PureMVC/puremvc-delphi-standard-framework/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [Delphi](http://www.embarcadero.com/products/delphi)

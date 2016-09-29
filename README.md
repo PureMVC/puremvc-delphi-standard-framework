@@ -1,5 +1,7 @@
 ## [PureMVC](http://puremvc.github.com/) Delphi Standard Framework
 
+[![Join the chat at https://gitter.im/PureMVC/puremvc-delphi-standard-framework](https://badges.gitter.im/PureMVC/puremvc-delphi-standard-framework.svg)](https://gitter.im/PureMVC/puremvc-delphi-standard-framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PureMVC is a lightweight framework for creating applications based upon the classic [Model-View-Controller](http://en.wikipedia.org/wiki/Model-view-controller) design meta-pattern. This is the specific implementation for the [Delphi](http://www.embarcadero.com/products/delphi) language. It does not support [modular programming](http://en.wikipedia.org/wiki/Modular_programming) since it uses [Singletons](http://en.wikipedia.org/wiki/Singleton_pattern) as Core actors rather than the [Multiton](http://en.wikipedia.org/wiki/Multiton) used in the [MultiCore](https://github.com/PureMVC/puremvc-swift-multicore-framework/wiki) Version.
 
 * [API Docs](http://puremvc.org/pages/docs/Delphi/standard/)
